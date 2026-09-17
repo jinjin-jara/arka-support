@@ -47,4 +47,4 @@ iCloud에 동기화된 정보는 iOS 설정 → Apple 계정 → iCloud → 저�
 
 ## 문의
 
-1day_1000@finger.co.kr
+jkjy0095@icloud.com

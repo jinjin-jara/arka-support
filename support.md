@@ -27,4 +27,4 @@ title: arka 지원
 
 ## 문의
 
-1day_1000@finger.co.kr
+jkjy0095@icloud.com
