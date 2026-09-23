@@ -91,9 +91,17 @@
   line-height: 1.5;
 }
 
-/* 두 번째 단계는 접어 두지 않고 조금 흐리게만 둔다. */
-.toc ul ul { padding-left: 16px; }
-.toc ul ul a { color: #8a8a8a; }
+/*
+  kramdown은 문서 제목까지 목차에 넣는다. 그러면 장 이름이 한 단계 안으로 밀린다.
+  제목 줄만 감추고 그 아래를 끌어올려 장 이름이 평평하게 보이게 한다.
+  ({:.no_toc}는 GitHub Pages의 kramdown에서 듣지 않는다.)
+*/
+.toc > ul { padding-left: 0; }
+.toc > ul > li > a { display: none; }
+.toc > ul > li > ul { padding-left: 18px; }
+
+/* 장 안의 소제목은 조금 흐리게. */
+.toc ul ul ul a { color: #8a8a8a; }
 
 .toc a { text-decoration: none; }
 .toc a:hover { text-decoration: underline; }
