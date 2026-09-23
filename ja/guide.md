@@ -13,6 +13,13 @@ title: arka の使い方
 
 気に入ったリンクをためておくアプリです。iPhone と Android で同じように動きます。
 
+<nav class="toc" markdown="1">
+**目次**
+
+* 여기에 목차가 들어간다
+{:toc}
+</nav>
+
 ## リンクを保存する
 
 **共有ボタンから** — Safari・YouTube・Instagram など、どこからでも共有ボタンを押して **arka** を選びます。
