@@ -2,6 +2,8 @@
 title: arka 지원
 ---
 
+한국어 · [English](/arka-support/en/support) · [日本語](/arka-support/ja/support) · [繁體中文](/arka-support/zh/support)
+
 # arka 지원
 
 마음에 든 링크를 모아두는 앱입니다. 쓰는 법은 [사용법](guide)에 정리해 두었습니다.

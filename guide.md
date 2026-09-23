@@ -2,6 +2,8 @@
 title: arka 사용법
 ---
 
+한국어 · [English](/arka-support/en/guide) · [日本語](/arka-support/ja/guide) · [繁體中文](/arka-support/zh/guide)
+
 # arka 사용법
 
 마음에 든 링크를 모아두는 앱입니다. 아이폰과 안드로이드에서 같게 동작합니다.
