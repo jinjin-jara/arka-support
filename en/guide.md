@@ -16,94 +16,75 @@ A place to keep the links you liked. Works the same on iPhone and Android.
 <nav class="toc" markdown="1">
 **Contents**
 
-* 여기에 목차가 들어간다
+- The table of contents goes here
 {:toc}
 </nav>
 
-## Saving a link
+## Saving a link to arka
 
-**From the share button** — In Safari, YouTube, Instagram, anywhere: tap the share button and choose **arka**.
-A save sheet appears. Add a note or pick a collection if you like, or just tap Save.
+### 1. Saving from the share button
 
-> If arka isn't in the share list, tap `···` (More) at the bottom of the list and turn it on.
+In Safari, YouTube, Instagram — anywhere — tap the share button and choose the **arka icon**.
+When the save screen appears you can write a note or pick a collection to keep it in, or just tap **Save**.
+If you don't write a note or pick a collection, the post's own title is shown and it goes under Unsorted.
 
-**From a copied address** — Copy a URL, then tap the paste button at the top of arka's home screen.
+> If you don't see the arka icon in the share list, tap `···` (More) at the bottom of the list and turn arka on.
 
-The title and preview image fill in on their own a moment later. No need to wait.
+### 2. Saving from a copied address
 
-<figure class="shot">
-  <img src="/arka-support/assets/img/save.jpg" alt="The save sheet you get after choosing arka from the share button" loading="lazy">
-  <figcaption>The save sheet you get after choosing arka from the share button</figcaption>
-</figure>
+Copy the address, open arka, and tap the paste icon at the top.
 
-## Leaving a note
+> Once saved, the preview thumbnail fills in on its own a moment later.
 
-Long-press a card and choose **Edit note**.
+## Editing a note
 
-Your note is kept apart from the page's own title. If you write a note, the card shows your note;
-if you don't, it shows the page title. Writing down **why you saved it** makes it easier to find later.
+Long-press a link card and tap **Edit note**.
 
 ## Organizing into collections
 
-**Create** — Tap the folder button at the top of the home screen.
+**Create** — Tap the folder button at the top of the home screen to make a new collection.
 
-**Add** — Long-press a card and choose `Move to collection`.
+**Add** — Long-press the link card you want to move and tap `Move to collection`.
 
-**Several at once** — Tap the check button at the top to enter selection mode. Tap cards to pick them,
-then use the bar at the bottom to move, share, or delete them together. Search first, then `Select all`,
-and you can sort out everything matching in one go.
+**Moving several at once** — Tap the **check icon** at the top right to switch to selection mode. Pick the link cards you want, then move, share, or delete them together from the menu at the bottom.
 
-<figure class="shot">
-  <img src="/arka-support/assets/img/select.jpg" alt="Picking several to move or delete together" loading="lazy">
-  <figcaption>Picking several to move or delete together</figcaption>
-</figure>
+To sort out links whose notes share a keyword, **narrow things down with search or a collection first, then tap `Select all`**. Only what's on screen right now gets selected, so you can move just those.
 
-**Reorder** — In the collections view, long-press a folder and drag it. The tabs at the top follow this order.
+## Reordering collections
 
-**Deleting a collection does not delete the links inside.** They just go back to Unsorted.
+In the collections view, **long-press a folder and drag it** wherever you want.
 
-<figure class="shot">
-  <img src="/arka-support/assets/img/collections.jpg" alt="Collections — the photos inside show through" loading="lazy">
-  <figcaption>Collections — the photos inside show through</figcaption>
-</figure>
+## If I delete a collection, do the links and notes inside go too?
 
-## Finding things
+No. **Only the collection is deleted — the links and notes inside stay.** Those links move to `Unsorted` automatically.
 
-Type in the search box and arka looks through both your notes and the titles. The tabs at the top switch
-between all links, collections, and each collection — you can also swipe left and right.
+## Searching links and collections
 
-<figure class="shot">
-  <img src="/arka-support/assets/img/home.jpg" alt="Home, with saved links stacking up" loading="lazy">
-  <figcaption>Home, with saved links stacking up</figcaption>
-</figure>
+Type a keyword in the search box and arka looks through both the link titles and the notes you wrote.
 
-## Changing how it looks
+## Changing how things look
 
-Settings → **View**.
+Settings → **View** lets you choose how links are shown.
 
-- **Gallery** — a two-column grid where photos come first
-- **List** — one per row, so more fits on screen
+- **Gallery** — a two-column layout where thumbnails are large
+- **List** — one link per row, so more fits on one screen
 
-Turn on **Show titles too** and the link's own title appears under your note.
-
-<figure class="shot">
-  <img src="/arka-support/assets/img/list.jpg" alt="List view with titles turned on" loading="lazy">
-  <figcaption>List view with titles turned on</figcaption>
-</figure>
+Turn on **Show titles too** and the link's own title appears alongside the note you wrote.
 
 ## Changing the cover photo
 
-Long-press a card and choose **Choose a cover photo**. You can put in any photo instead of the one arka
-fetched — useful for places like Instagram where a preview can't be fetched.
+Long-press a link card and choose **Choose a cover photo**. You can set any photo as the cover instead of the thumbnail arka fetched.
 
-## Bringing links over from a notes app
+## Saving many links at once
 
-If you've been keeping links in a notes app, you can bring them all in at once.
+If you've kept links in a notes app or somewhere else, you can bring them all into arka at once.
+It also works for a list of links a friend shared with you.
 
-1. Save the note as a **.txt file**
-2. In Settings, tap **Import from notes** (**Import from text** on iPhone) and pick that file
+1. Save what you want to bring in as a **`.txt` file**.
+2. In Settings, tap **Import from notes** and pick that file.
+   On iPhone it's called **Import from text**.
 
-The text should look like this.
+Write the file like this.
 
 ```
 Where we stayed on day 3 in London
@@ -113,45 +94,39 @@ https://blog.naver.com/...
 https://www.youtube.com/watch?v=...
 ```
 
-- **A link must sit alone on its line**
-- The lines **above a link** become its note
-- Leave a blank line between entries
+- Put **one link per line**.
+- Whatever you write **directly above a link** is saved as that link's note.
+- Separate entries with a **blank line**.
 
-These are not recognized as links.
+Links won't be recognized if there's a symbol in front of them, or if they sit inside a sentence.
 
 ```
-- https://example.com/a           ← no symbols in front
-I liked this https://example.com/b  ← not mixed into a sentence
+- https://example.com/a
+I liked this https://example.com/b
 ```
 
-Up to 500 links at a time. Links already saved are skipped, so importing twice is safe.
+You can bring in **up to 500** at a time. Links already saved are skipped automatically, so importing the same file again won't create duplicates.
 
 ## Backing up and moving
 
-Settings → **Export backup** makes a single file with your links, notes, collections, and cover photos.
+Settings → **Export backup** makes a **backup file** with all your links, notes, collections, and cover photos.
 
-The same file opens on both iPhone and Android. That one file is all you need when changing phones.
+The backup file works on both iPhone and Android, so you can carry everything over when you change devices.
 
-**Import** restores what's in the file. Links that exist only on this device are not deleted.
-
-<figure class="shot">
-  <img src="/arka-support/assets/img/settings.jpg" alt="Settings" loading="lazy">
-  <figcaption>Settings</figcaption>
-</figure>
+On the new device, tap **Import backup** and open the file you saved. Links already on that device are not deleted — they stay as they are.
 
 ## When thumbnails disappear
 
-Places like Instagram put an expiry time in the preview image address, so the image vanishes after a while.
+Thumbnails from some services, Instagram among them, can stop showing after a while.
 
-Settings → **Fetch thumbnails again** brings them back. Once fetched, the image is stored on your device,
-so it won't disappear again.
+When that happens, go to Settings → **Fetch thumbnails again**. arka fetches them once more and stores them on your device, so they keep working from then on.
 
-It only uses data when you tap it. arka never fetches on its own.
+**Fetch thumbnails again** connects to the internet only when you run it yourself. The app never uses data on its own.
 
-## Other things
+## Good to know
 
-- What you save stays **on your device**. There is no arka server
-- No account, no sign-in
-- 한국어 · English · 日本語 · 繁體中文
+- Your saved links and notes are **stored on your device.** arka keeps nothing on a server.
+- You can use it right away, **with no sign-up and no login.**
+- Available in **한국어 · English · 日本語 · 繁體中文**.
 
 Anything else — see the [support page](/arka-support/en/support) or write to jkjy0095@icloud.com

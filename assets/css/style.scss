@@ -42,28 +42,6 @@
   font-weight: 600;
 }
 
-/* 화면 그림. 실제 앱 화면이라 기기 목업 없이 그대로 둔다. */
-.shot {
-  margin: 20px 0 24px;
-  padding: 0;
-  max-width: 300px;
-}
-
-.shot img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border: 1px solid #e8e8e8;
-  border-radius: 12px;
-}
-
-.shot figcaption {
-  margin-top: 8px;
-  font-size: 13px;
-  line-height: 1.5;
-  color: #8a8a8a;
-}
-
 /* 목차. 제목에서 자동으로 만들어진다(kramdown). */
 .toc {
   margin: 24px 0 32px;
