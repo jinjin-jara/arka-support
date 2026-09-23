@@ -2,7 +2,12 @@
 title: How to use arka
 ---
 
-[한국어](/arka-support/guide) · English · [日本語](/arka-support/ja/guide) · [繁體中文](/arka-support/zh/guide)
+<ul class="lang">
+  <li><a href="/arka-support/guide">한국어</a></li>
+  <li><span class="current">English</span></li>
+  <li><a href="/arka-support/ja/guide">日本語</a></li>
+  <li><a href="/arka-support/zh/guide">繁體中文</a></li>
+</ul>
 
 # How to use arka
 
@@ -18,6 +23,11 @@ A save sheet appears. Add a note or pick a collection if you like, or just tap S
 **From a copied address** — Copy a URL, then tap the paste button at the top of arka's home screen.
 
 The title and preview image fill in on their own a moment later. No need to wait.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/save.jpg" alt="The save sheet you get after choosing arka from the share button" loading="lazy">
+  <figcaption>The save sheet you get after choosing arka from the share button</figcaption>
+</figure>
 
 ## Leaving a note
 
@@ -36,14 +46,29 @@ if you don't, it shows the page title. Writing down **why you saved it** makes i
 then use the bar at the bottom to move, share, or delete them together. Search first, then `Select all`,
 and you can sort out everything matching in one go.
 
+<figure class="shot">
+  <img src="/arka-support/assets/img/select.jpg" alt="Picking several to move or delete together" loading="lazy">
+  <figcaption>Picking several to move or delete together</figcaption>
+</figure>
+
 **Reorder** — In the collections view, long-press a folder and drag it. The tabs at the top follow this order.
 
 **Deleting a collection does not delete the links inside.** They just go back to Unsorted.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/collections.jpg" alt="Collections — the photos inside show through" loading="lazy">
+  <figcaption>Collections — the photos inside show through</figcaption>
+</figure>
 
 ## Finding things
 
 Type in the search box and arka looks through both your notes and the titles. The tabs at the top switch
 between all links, collections, and each collection — you can also swipe left and right.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/home.jpg" alt="Home, with saved links stacking up" loading="lazy">
+  <figcaption>Home, with saved links stacking up</figcaption>
+</figure>
 
 ## Changing how it looks
 
@@ -53,6 +78,11 @@ Settings → **View**.
 - **List** — one per row, so more fits on screen
 
 Turn on **Show titles too** and the link's own title appears under your note.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/list.jpg" alt="List view with titles turned on" loading="lazy">
+  <figcaption>List view with titles turned on</figcaption>
+</figure>
 
 ## Changing the cover photo
 
@@ -96,6 +126,11 @@ Settings → **Export backup** makes a single file with your links, notes, colle
 The same file opens on both iPhone and Android. That one file is all you need when changing phones.
 
 **Import** restores what's in the file. Links that exist only on this device are not deleted.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/settings.jpg" alt="Settings" loading="lazy">
+  <figcaption>Settings</figcaption>
+</figure>
 
 ## When thumbnails disappear
 

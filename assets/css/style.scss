@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 언어 선택. 어느 장에 있든 같은 자리에서 옮겨갈 수 있어야 한다. */
+.lang {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 28px;
+  padding: 0;
+  list-style: none;
+}
+
+.lang li { margin: 0; }
+
+.lang a,
+.lang span {
+  display: inline-block;
+  padding: 5px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+  font-size: 13px;
+  line-height: 1.4;
+  text-decoration: none;
+  color: #6a6a6a;
+  background: #fff;
+}
+
+.lang a:hover {
+  border-color: #3f5144;
+  color: #3f5144;
+  text-decoration: none;
+}
+
+/* 지금 보고 있는 언어. 눌러도 갈 데가 없으니 링크로 두지 않는다. */
+.lang .current {
+  border-color: #3f5144;
+  background: #e2e8df;
+  color: #3f5144;
+  font-weight: 600;
+}
+
+/* 화면 그림. 실제 앱 화면이라 기기 목업 없이 그대로 둔다. */
+.shot {
+  margin: 20px 0 24px;
+  padding: 0;
+  max-width: 300px;
+}
+
+.shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+}
+
+.shot figcaption {
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #8a8a8a;
+}

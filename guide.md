@@ -2,7 +2,12 @@
 title: arka 사용법
 ---
 
-한국어 · [English](/arka-support/en/guide) · [日本語](/arka-support/ja/guide) · [繁體中文](/arka-support/zh/guide)
+<ul class="lang">
+  <li><span class="current">한국어</span></li>
+  <li><a href="/arka-support/en/guide">English</a></li>
+  <li><a href="/arka-support/ja/guide">日本語</a></li>
+  <li><a href="/arka-support/zh/guide">繁體中文</a></li>
+</ul>
 
 # arka 사용법
 
@@ -18,6 +23,11 @@ title: arka 사용법
 **복사해 둔 주소로** — 주소를 복사한 뒤 arka 홈 화면 오른쪽 위 붙여넣기 버튼을 누르면 바로 담깁니다.
 
 저장하면 제목과 미리보기 그림은 잠시 뒤에 알아서 채워집니다. 기다리지 않아도 됩니다.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/save.jpg" alt="공유 버튼에서 arka를 고르면 나오는 저장 화면" loading="lazy">
+  <figcaption>공유 버튼에서 arka를 고르면 나오는 저장 화면</figcaption>
+</figure>
 
 ## 메모 남기기
 
@@ -36,14 +46,29 @@ title: arka 사용법
 아래 막대에서 모음 옮기기·공유·삭제를 한 번에 합니다. 검색으로 거른 뒤 `전체 선택`을 누르면
 조건에 맞는 것만 한 번에 정리할 수 있습니다.
 
+<figure class="shot">
+  <img src="/arka-support/assets/img/select.jpg" alt="여러 개를 골라 한 번에 옮기거나 지우기" loading="lazy">
+  <figcaption>여러 개를 골라 한 번에 옮기거나 지우기</figcaption>
+</figure>
+
 **순서 바꾸기** — 모음 화면에서 폴더를 길게 눌러 끌면 자리가 바뀝니다. 위쪽 탭도 이 순서를 따릅니다.
 
 **모음을 지워도 안에 있던 링크는 지워지지 않습니다.** 미분류로 돌아갈 뿐입니다.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/collections.jpg" alt="모음 화면. 폴더 안 사진이 그대로 보인다" loading="lazy">
+  <figcaption>모음 화면. 폴더 안 사진이 그대로 보인다</figcaption>
+</figure>
 
 ## 찾기
 
 검색창에 낱말을 넣으면 메모와 제목을 함께 훑습니다. 위쪽 탭으로 전체·모음·각 모음을 오갈 수 있고,
 좌우로 밀어서도 옮겨집니다.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/home.jpg" alt="저장한 링크가 쌓인 홈 화면" loading="lazy">
+  <figcaption>저장한 링크가 쌓인 홈 화면</figcaption>
+</figure>
 
 ## 보기 방식 바꾸기
 
@@ -53,6 +78,11 @@ title: arka 사용법
 - **목록** — 한 줄에 하나씩. 한 화면에 더 많이 들어옵니다
 
 **제목도 함께 보기**를 켜면 메모 아래에 링크의 원래 제목이 함께 보입니다.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/list.jpg" alt="목록형으로 바꾸고 제목도 함께 켠 모습" loading="lazy">
+  <figcaption>목록형으로 바꾸고 제목도 함께 켠 모습</figcaption>
+</figure>
 
 ## 커버 사진 바꾸기
 
@@ -96,6 +126,11 @@ https://www.youtube.com/watch?v=...
 같은 파일을 아이폰과 안드로이드 양쪽에서 읽을 수 있습니다. 기기를 바꿀 때 이 파일 하나면 됩니다.
 
 **가져오기**는 되살리는 일입니다. 지금 기기에만 있는 링크는 지워지지 않습니다.
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/settings.jpg" alt="설정 화면" loading="lazy">
+  <figcaption>설정 화면</figcaption>
+</figure>
 
 ## 썸네일이 사라졌을 때
 

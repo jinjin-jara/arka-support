@@ -2,7 +2,12 @@
 title: arka Privacy Policy
 ---
 
-[한국어](/arka-support/privacy) · English · [日本語](/arka-support/ja/privacy) · [繁體中文](/arka-support/zh/privacy)
+<ul class="lang">
+  <li><a href="/arka-support/privacy">한국어</a></li>
+  <li><span class="current">English</span></li>
+  <li><a href="/arka-support/ja/privacy">日本語</a></li>
+  <li><a href="/arka-support/zh/privacy">繁體中文</a></li>
+</ul>
 
 # Privacy Policy
 

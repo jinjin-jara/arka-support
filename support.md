@@ -2,7 +2,12 @@
 title: arka 지원
 ---
 
-한국어 · [English](/arka-support/en/support) · [日本語](/arka-support/ja/support) · [繁體中文](/arka-support/zh/support)
+<ul class="lang">
+  <li><span class="current">한국어</span></li>
+  <li><a href="/arka-support/en/support">English</a></li>
+  <li><a href="/arka-support/ja/support">日本語</a></li>
+  <li><a href="/arka-support/zh/support">繁體中文</a></li>
+</ul>
 
 # arka 지원
 

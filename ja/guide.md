@@ -2,7 +2,12 @@
 title: arka の使い方
 ---
 
-[한국어](/arka-support/guide) · [English](/arka-support/en/guide) · 日本語 · [繁體中文](/arka-support/zh/guide)
+<ul class="lang">
+  <li><a href="/arka-support/guide">한국어</a></li>
+  <li><a href="/arka-support/en/guide">English</a></li>
+  <li><span class="current">日本語</span></li>
+  <li><a href="/arka-support/zh/guide">繁體中文</a></li>
+</ul>
 
 # arka の使い方
 
@@ -18,6 +23,11 @@ title: arka の使い方
 **コピーしたアドレスから** — アドレスをコピーしてから、arka のホーム画面右上の貼り付けボタンを押します。
 
 タイトルとプレビュー画像は少しあとに自動で入ります。待たなくて大丈夫です。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/save.jpg" alt="共有ボタンから arka を選ぶと出る保存画面" loading="lazy">
+  <figcaption>共有ボタンから arka を選ぶと出る保存画面</figcaption>
+</figure>
 
 ## メモを残す
 
@@ -36,14 +46,29 @@ title: arka の使い方
 移動・共有・削除をまとめて行います。検索で絞ってから `すべて選択` を押せば、条件に合うものだけを
 一度に整理できます。
 
+<figure class="shot">
+  <img src="/arka-support/assets/img/select.jpg" alt="複数を選んでまとめて移動・削除" loading="lazy">
+  <figcaption>複数を選んでまとめて移動・削除</figcaption>
+</figure>
+
 **並べ替え** — コレクション画面でフォルダを長押しして動かすと位置が変わります。上のタブもこの順に従います。
 
 **コレクションを削除しても中のリンクは消えません。** 未分類に戻るだけです。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/collections.jpg" alt="コレクション画面。中の写真がそのまま見える" loading="lazy">
+  <figcaption>コレクション画面。中の写真がそのまま見える</figcaption>
+</figure>
 
 ## 探す
 
 検索ボックスに言葉を入れると、メモとタイトルの両方を探します。上のタブですべて・コレクション・
 各コレクションを行き来でき、左右にスワイプしても切り替わります。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/home.jpg" alt="保存したリンクが並ぶホーム画面" loading="lazy">
+  <figcaption>保存したリンクが並ぶホーム画面</figcaption>
+</figure>
 
 ## 表示を変える
 
@@ -53,6 +78,11 @@ title: arka の使い方
 - **リスト** — 1行に1つずつ。画面に多く入ります
 
 **タイトルも表示** をオンにすると、メモの下にリンク本来のタイトルも並びます。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/list.jpg" alt="リスト表示にしてタイトルも表示した状態" loading="lazy">
+  <figcaption>リスト表示にしてタイトルも表示した状態</figcaption>
+</figure>
 
 ## カバー写真を変える
 
@@ -97,6 +127,11 @@ https://www.youtube.com/watch?v=...
 同じファイルを iPhone と Android の両方で読み込めます。機種を変えるときはこのファイル1つで済みます。
 
 **読み込み** は復元です。いまの端末にだけあるリンクは消えません。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/settings.jpg" alt="設定画面" loading="lazy">
+  <figcaption>設定画面</figcaption>
+</figure>
 
 ## サムネイルが消えたとき
 

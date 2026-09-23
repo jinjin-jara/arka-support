@@ -2,7 +2,12 @@
 title: arka 개인정보 처리방침
 ---
 
-한국어 · [English](/arka-support/en/privacy) · [日本語](/arka-support/ja/privacy) · [繁體中文](/arka-support/zh/privacy)
+<ul class="lang">
+  <li><span class="current">한국어</span></li>
+  <li><a href="/arka-support/en/privacy">English</a></li>
+  <li><a href="/arka-support/ja/privacy">日本語</a></li>
+  <li><a href="/arka-support/zh/privacy">繁體中文</a></li>
+</ul>
 
 # 개인정보 처리방침
 

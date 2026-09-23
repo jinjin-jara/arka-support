@@ -2,7 +2,12 @@
 title: arka 使用方式
 ---
 
-[한국어](/arka-support/guide) · [English](/arka-support/en/guide) · [日本語](/arka-support/ja/guide) · 繁體中文
+<ul class="lang">
+  <li><a href="/arka-support/guide">한국어</a></li>
+  <li><a href="/arka-support/en/guide">English</a></li>
+  <li><a href="/arka-support/ja/guide">日本語</a></li>
+  <li><span class="current">繁體中文</span></li>
+</ul>
 
 # arka 使用方式
 
@@ -18,6 +23,11 @@ title: arka 使用方式
 **用複製的網址** — 複製網址後，按 arka 首頁右上角的貼上按鈕。
 
 標題和預覽圖片稍後會自動填入，不需要等待。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/save.jpg" alt="從分享按鈕選擇 arka 後出現的儲存畫面" loading="lazy">
+  <figcaption>從分享按鈕選擇 arka 後出現的儲存畫面</figcaption>
+</figure>
 
 ## 寫下備註
 
@@ -35,14 +45,29 @@ title: arka 使用方式
 **一次處理多個** — 按上方的勾選按鈕進入選取模式。按卡片來選取，再用下方的列一次移動、分享或刪除。
 先用搜尋篩選，再按 `全選`，就能一次整理符合條件的項目。
 
+<figure class="shot">
+  <img src="/arka-support/assets/img/select.jpg" alt="選取多個一次移動或刪除" loading="lazy">
+  <figcaption>選取多個一次移動或刪除</figcaption>
+</figure>
+
 **調整順序** — 在收藏畫面長按資料夾並拖曳即可換位置。上方的分頁也會跟著這個順序。
 
 **刪除收藏不會刪掉裡面的連結**，它們只是回到未分類。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/collections.jpg" alt="收藏畫面，裡面的照片直接顯示" loading="lazy">
+  <figcaption>收藏畫面，裡面的照片直接顯示</figcaption>
+</figure>
 
 ## 尋找
 
 在搜尋框輸入文字，會同時找備註和標題。上方分頁可以在全部、收藏、各個收藏之間切換，
 左右滑動也可以。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/home.jpg" alt="儲存的連結堆疊起來的首頁" loading="lazy">
+  <figcaption>儲存的連結堆疊起來的首頁</figcaption>
+</figure>
 
 ## 改變顯示方式
 
@@ -52,6 +77,11 @@ title: arka 使用方式
 - **列表** — 一行一個，一個畫面能放更多
 
 打開 **同時顯示標題**，備註下方會一併顯示連結原本的標題。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/list.jpg" alt="切換成列表並開啟標題顯示" loading="lazy">
+  <figcaption>切換成列表並開啟標題顯示</figcaption>
+</figure>
 
 ## 更換封面照片
 
@@ -95,6 +125,11 @@ https://www.youtube.com/watch?v=...
 同一個檔案在 iPhone 和 Android 都能讀。換手機時只要這一個檔案就夠了。
 
 **匯入** 是還原。只存在這台裝置上的連結不會被刪除。
+
+<figure class="shot">
+  <img src="/arka-support/assets/img/settings.jpg" alt="設定畫面" loading="lazy">
+  <figcaption>設定畫面</figcaption>
+</figure>
 
 ## 縮圖消失時
 
