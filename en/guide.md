@@ -20,6 +20,8 @@ A place to keep the links you liked. Works the same on iPhone and Android.
 {:toc}
 </nav>
 
+---
+
 ## Saving a link to arka
 
 ### 1. Saving from the share button
@@ -36,9 +38,13 @@ Copy the address, open arka, and tap the paste icon at the top.
 
 > Once saved, the preview thumbnail fills in on its own a moment later.
 
+---
+
 ## Editing a note
 
 Long-press a link card and tap **Edit note**.
+
+---
 
 ## Organizing into collections
 
@@ -50,17 +56,25 @@ Long-press a link card and tap **Edit note**.
 
 To sort out links whose notes share a keyword, **narrow things down with search or a collection first, then tap `Select all`**. Only what's on screen right now gets selected, so you can move just those.
 
+---
+
 ## Reordering collections
 
 In the collections view, **long-press a folder and drag it** wherever you want.
+
+---
 
 ## If I delete a collection, do the links and notes inside go too?
 
 No. **Only the collection is deleted — the links and notes inside stay.** Those links move to `Unsorted` automatically.
 
+---
+
 ## Searching links and collections
 
 Type a keyword in the search box and arka looks through both the link titles and the notes you wrote.
+
+---
 
 ## Changing how things look
 
@@ -71,9 +85,13 @@ Settings → **View** lets you choose how links are shown.
 
 Turn on **Show titles too** and the link's own title appears alongside the note you wrote.
 
+---
+
 ## Changing the cover photo
 
 Long-press a link card and choose **Choose a cover photo**. You can set any photo as the cover instead of the thumbnail arka fetched.
+
+---
 
 ## Saving many links at once
 
@@ -107,6 +125,8 @@ I liked this https://example.com/b
 
 You can bring in **up to 500** at a time. Links already saved are skipped automatically, so importing the same file again won't create duplicates.
 
+---
+
 ## Backing up and moving
 
 Settings → **Export backup** makes a **backup file** with all your links, notes, collections, and cover photos.
@@ -115,6 +135,8 @@ The backup file works on both iPhone and Android, so you can carry everything ov
 
 On the new device, tap **Import backup** and open the file you saved. Links already on that device are not deleted — they stay as they are.
 
+---
+
 ## When thumbnails disappear
 
 Thumbnails from some services, Instagram among them, can stop showing after a while.
@@ -122,6 +144,8 @@ Thumbnails from some services, Instagram among them, can stop showing after a wh
 When that happens, go to Settings → **Fetch thumbnails again**. arka fetches them once more and stores them on your device, so they keep working from then on.
 
 **Fetch thumbnails again** connects to the internet only when you run it yourself. The app never uses data on its own.
+
+---
 
 ## Good to know
 
