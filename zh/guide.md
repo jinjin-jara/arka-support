@@ -10,6 +10,7 @@ title: arka 使用方式
 </ul>
 
 # arka 使用方式
+{:.no_toc}
 
 把喜歡的連結收起來的 App。在 iPhone 和 Android 上運作方式相同。
 

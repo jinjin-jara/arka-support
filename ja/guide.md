@@ -10,6 +10,7 @@ title: arka の使い方
 </ul>
 
 # arka の使い方
+{:.no_toc}
 
 気に入ったリンクをためておくアプリです。iPhone と Android で同じように動きます。
 

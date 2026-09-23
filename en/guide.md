@@ -10,6 +10,7 @@ title: How to use arka
 </ul>
 
 # How to use arka
+{:.no_toc}
 
 A place to keep the links you liked. Works the same on iPhone and Android.
 
