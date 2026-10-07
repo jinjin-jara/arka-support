@@ -29,6 +29,10 @@ To fetch the title and preview image of a link you saved, arka makes a request t
 server** (for example, saving an Instagram post means a request to Instagram). Only the link address
 is sent. Your notes and anything else you saved are not sent.
 
+On iOS, when you open the Settings screen, arka asks Apple's public lookup API
+(itunes.apple.com) whether a newer version is on the App Store. Only the app's
+identifier is sent — none of your saved links or notes.
+
 arka has no server of its own. Nothing is ever sent to the developer.
 
 ## What is not collected
